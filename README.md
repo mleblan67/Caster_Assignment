@@ -17,4 +17,4 @@ For this assignment, we were given the dimensions to a cube, spinner shaft, and 
 ## Link to Onshape Document
 I made all my parts and assemblies in one Onshape Document found [here](https://cvilleschools.onshape.com/documents/accc0d412d0fcbabb3e21e26/w/8e60ddaa4a4fe5a6de1f8d8a/e/cafeeac053986b1c7a17469d)
 ## Assembly photo
-<img src="Challenge.gif" alt="Challenge" width="500">
+<img src="Challenge.gif" alt="Challenge" width="400">
